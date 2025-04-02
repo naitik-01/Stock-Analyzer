@@ -50,10 +50,10 @@ python stock_analyzer.py
 ---
 
 ## **📸 Screenshots**
-| 📊 Stock Price Chart | 📈 Trading Volume Chart |
-|---------------------|---------------------|
-| ![Chart 1](https://photos.app.goo.gl/p6kGzvjQbWrYCbBb8) | ![Chart 2](https://photos.app.goo.gl/Zwi7CYUzP8mKMGvh8) |  
-*(Replace with actual images of your app in action!)*  
+|                📊 Stock Price Chart                        |               📈 Trading Volume Chart                    |
+|------------------------------------------------------------|-----------------------------------------------------------|
+| ![Chart 1] ( https://photos.app.goo.gl/p6kGzvjQbWrYCbBb8 ) | ![Chart 2] ( https://photos.app.goo.gl/Zwi7CYUzP8mKMGvh8) |  
+
 
 ---
 
