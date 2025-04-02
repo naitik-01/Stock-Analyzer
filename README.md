@@ -7,7 +7,7 @@ Here’s a **beautiful and well-structured README** for your **GitHub repository
 # **📊 Stock Analyzer – Analyze Stocks in Seconds!**  
 🔍 **A simple yet powerful stock analysis tool built using Python & Tkinter.** It fetches real-time stock data from **Yahoo Finance** and visualizes key insights like **price trends, moving averages, and trading volume**. 📈  
 
-![Stock Analyzer Demo](https://youtu.be/TbeXfXTXspk) 
+![Stock Analyzer Demo] ( https://youtu.be/TbeXfXTXspk ) 
 
 ---
 
